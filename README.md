@@ -1,7 +1,7 @@
 # Decision-Trees# Decision Trees & Random Forests - Heart Disease Classification
 
 ## 📌 Task Overview
-This project is part of **Task 5** for the AI & ML Internship.  
+
 The objective is to **explore tree-based models** for classification, control overfitting, interpret feature importances, and evaluate performance using cross-validation.  
 The implementation is done as an **interactive Streamlit dashboard** for better visualization and experimentation.
 
